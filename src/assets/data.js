@@ -1,0 +1,42 @@
+export const data =[
+    {
+        question: "Which device is required for the internet connection?",
+        option1: "Modem",
+        option2: "Router",
+        option3: "LAN Cable",
+        option4: "Pen Drive",
+        ans:1,
+    },
+        {
+        question: "Which continent has the highest number of countries?",
+        option1: "Asia",
+        option2: "Europe",
+        option3: "North America",
+        option4: "Africa",
+        ans:4,
+    },
+        {
+        question: "Junk e-mail is also called?",
+        option1: "Spam",
+        option2: "Fake",
+        option3: "Archived",
+        option4: "Bin",
+        ans:1,
+    },
+    {
+        question: "Who painted the Mona Lisa?",
+        option1: "Vincent Van Gogh",
+        option2: "Pablo Picasso",
+        option3: "Michelangelo",
+        option4: "Leonardo da Vinci",
+        ans:4,
+    },
+     {
+        question: "What is the hardest naturally occurring substance on Earth?",
+        option1: "Titanium",
+        option2: "Quartz",
+        option3: "Diamond",
+        option4: "Granite",
+        ans:3,
+    },
+]
