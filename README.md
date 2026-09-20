@@ -1,16 +1,37 @@
-# React + Vite
+# React Quiz App 🧠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive quiz application built with **React.js** that allows users to answer multiple-choice questions, track their progress, and view their final score.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 5 multiple-choice questions
+* Instant answer validation
+* Visual feedback for correct and incorrect answers
+* Quiz progress tracking
+* Automatic score calculation
+* Quiz reset functionality
+* Interactive and user-friendly interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript
+* HTML
+* CSS
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Through this project, I practiced:
+
+* React components
+* State management
+* Conditional rendering
+* Event handling
+* Dynamic UI updates
+* Managing quiz progress
+* Score calculation and answer validation
+
+## 🎯 Project Overview
+
+The quiz displays five questions one by one. Users can select an answer and receive immediate visual feedback. The application keeps track of completed questions and calculates the user's score. A reset option allows the user to restart the quiz.
+
